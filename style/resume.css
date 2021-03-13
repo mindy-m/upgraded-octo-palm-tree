@@ -1,0 +1,5 @@
+#skillsList{
+    columns: 3; 
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
