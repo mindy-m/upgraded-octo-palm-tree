@@ -1,12 +1,29 @@
-#skillsList{
-    columns: 3; 
-    -webkit-columns: 3;
-    -moz-columns: 3;
+#myName{
+    font-family: "American Typewriter", serif;
+    color: rgb(19, 19, 153);
 }
-
 
 body{
     font-family: sans-serif;
-    background-color: orchid;
+    background-color: #F3E3C5;
     color: darkblue;
+}
+
+h3{
+    font-variant: small-caps;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    height: 2px;
+    color: orchid;
+}
+
+.skillsList{
+    columns: 3; 
+    -webkit-columns: 3;
+    -moz-columns: 3;
 }
