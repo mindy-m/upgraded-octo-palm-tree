@@ -3,3 +3,10 @@
     -webkit-columns: 3;
     -moz-columns: 3;
 }
+
+
+body{
+    font-family: sans-serif;
+    background-color: orchid;
+    color: darkblue;
+}
